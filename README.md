@@ -1,25 +1,24 @@
-# Title
+# Oliver the British Chatbot
 
-Simple (or clever and funny?) description
-
-## Table of Contents
-
-- [Background](#background)
-
-- [Install](#install)
-
-- [Usage](#usage)
+Meet Oliver, your personal British Chatbot. He will respond to your questions and solve your life problems.
 
 ## Background
 
-This is why this application exists.
+I created this application to entertain people who are lonely and need someone to talk to. 
 
-## Install
+## Questions to Ask
 
-These are the steps to setup your local environment to run this application.
+>How are you?
 
-## Usage
+>What do you like to eat?
 
-These are the steps to use the application or interact with it.
+>Can you tell me a joke?
 
-### Any optional sections
+>What do you like to do for fun?
+
+
+## How to quit program
+
+When you are done talking to him, simply say "bye". 
+
+

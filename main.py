@@ -128,7 +128,7 @@ while quit != True:
     fun_response = True
   elif user_input == "bye" or user_input == "cya" or user_input == "bye bye" or user_input == "talk to you later" or user_input == "see you later" or user_input == "goodbye" or user_input == "bye!" or user_input == "cheerio" or user_input == "goodbye!":
     bye_response = True
-  elif user_input == "joke" or user_input == "say a joke" or user_input == "tell me a joke" or user_input == "please say a joke" or user_input == "please tell me a joke":
+  elif user_input == "joke" or user_input == "can you tell me a joke?" or user_input == "tell me a joke" or user_input == "please say a joke" or user_input == "please tell me a joke":
     joke_response = True
   else:
     idk_response = True
