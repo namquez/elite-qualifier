@@ -4,7 +4,7 @@ Meet Oliver, your personal British Chatbot. He will respond to your questions an
 
 ## Background
 
-I created this application to entertain people who are lonely and need someone to talk to. 
+This application was created to entertain people who are lonely and need someone to talk to. 
 
 ## Questions to Ask
 
