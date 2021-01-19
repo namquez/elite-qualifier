@@ -22,3 +22,7 @@ This application was created to entertain people who are lonely and need someone
 When you are done talking to him, simply say "bye". 
 
 
+## Test Plan To test the project: 
+1. Run the test 
+2. Check the results
+3. Submit test report
